@@ -1,0 +1,65 @@
+PROJECT TITLE:
+
+Electric Vehicle Battery Health Prediction & Smart Charging Recommendation using GenAI
+
+PROBLEM STATEMENT:
+
+“Electric Vehicles (EVs) face unpredictable battery degradation due to improper charging habits, temperature variations, and continuous usage.
+Manual monitoring of battery health is difficult and inaccurate.
+This project aims to use Machine Learning & GenAI to automatically analyze EV battery usage data and predict battery health while giving smart charging recommendations.”
+
+WHY I CHOSE THIS PROBLEM?
+
+Battery is the most expensive part of an EV
+
+Wrong charging patterns reduce battery life
+
+No easily available AI assistant for battery care
+
+Helps promote sustainable and safe EV usage
+
+Perfect real-world application with ML + GenAI
+
+DATASET USED:
+Kaggle Dataset: Electric Vehicle Battery Degradation / Charging Data
+
+Dataset includes EV battery performance logs collected over multiple cycles.
+
+DATASET CONTAINS:
+
+Battery cycle count
+
+Charging time & duration
+
+Temperature readings
+
+SOC (State of Charge) %
+
+SOH (State of Health) labels
+
+Energy consumed (kWh)
+
+Driving pattern info
+
+Charging type (Fast/Slow)
+
+DATASET INCLUDES:
+CSV files
+
+Battery usage logs, charging analytics
+
+Labels
+
+SOH% (battery health)
+
+ Metadata
+
+Temperature, current, voltage ranges
+
+ Export formats
+
+CSV
+
+JSON
+
+Kaggle API download
